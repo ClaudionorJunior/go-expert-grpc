@@ -15,7 +15,7 @@ cd cmd/server && sqlite3 data.db
 create table categories (id string, name string, description string);
 ```
 
-# Ler mais sobre gRPC com Go:
+# Instalação de protoc gRPC para Go:
 [gRPC para go](https://grpc.io/docs/languages/go/quickstart/)
 
 # Testando o servidor gRPC com Evans:
